@@ -1,3 +1,13 @@
+# Electricity Theft Detection
+
+##  Live Demo
+
+[Launch Electricity Theft Detection Dashboard](https://electricity-theft-detection-bzdp2fjxgsp7chd7zfoyvm.streamlit.app/)
+
+##  GitHub Repository
+
+[View Source Code](https://github.com/Archie0406/electricity-theft-detection)
+
 # Electricity Theft Detection Using Machine Learning
 
 A 3rd-year B.Tech / B.E. (Artificial Intelligence & Data Science) project that uses
