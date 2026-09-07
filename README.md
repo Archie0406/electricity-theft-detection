@@ -10,10 +10,6 @@
 
 # Electricity Theft Detection Using Machine Learning
 
-A 3rd-year B.Tech / B.E. (Artificial Intelligence & Data Science) project that uses
-anomaly detection to flag potentially suspicious electricity consumption patterns for
-further human investigation.
-
 ---
 
 ## 1. Project Overview
