@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,PR-AUC
+Isolation Forest (test months 5-6),0.909,0.316,0.631,0.421,0.443
+One-Class SVM (test months 5-6),0.909,0.347,0.847,0.493,0.603
+"Random Forest (test months 5-6, supervised)",0.971,0.679,0.847,0.754,0.797
+"Simple Rule Baseline (test months 5-6, no ML)",0.945,0.47,0.401,0.433,N/A

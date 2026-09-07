@@ -1,0 +1,27 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+venv/
+env/
+.venv/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated large/derived files (regenerate via scripts instead of committing)
+data/scored_customers.csv
+
+# Streamlit
+.streamlit/
